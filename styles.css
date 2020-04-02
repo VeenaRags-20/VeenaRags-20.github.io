@@ -1,0 +1,32 @@
+*{
+	margin:0px;
+	padding:5px;
+}
+body {
+  background-image: url("trees.png");
+}
+.container {
+	padding:60px;
+	width:500px;
+	text-align:center;
+	margin:auto;
+	margin-top:5%;
+	background-color:rgba(0,0,0,0.5);
+	color:white;
+}
+
+.box-name h1{
+	text-align:center;
+	color: (255,255,255);
+}
+.box-name h3{
+	text-align:center;
+	color:(255,255,255);
+}
+.skills p {
+	text-align:center;
+	font-size: 18px;
+}	
+.heading h3{
+	text-align:center;
+}
